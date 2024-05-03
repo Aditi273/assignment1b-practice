@@ -1,2 +1,8 @@
 i am aditi how r u doing ?
 i am adding a second file on my git repository
+
+
+now i am making changes in my git repository 
+i will modify the file and than again try to commit and see at my remote server if changes r being done 
+git should be able to take the snapshot of the changes i  am making in my repositoryry
+thankyou!

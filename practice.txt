@@ -2,4 +2,4 @@ name : aditi
 what is git?
 what is github?
 why we use github?
-what is the version of the githubs
+what is the version of the github?
