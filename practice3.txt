@@ -1,1 +1,7 @@
 this is my third attempt to create a new file , first i will add it to the repository and than try to make changes in it
+ 
+
+ now i am making changes in my file and will first add 
+ second status 
+ third commit as modify
+ fourth i will push it
